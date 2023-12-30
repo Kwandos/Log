@@ -1,0 +1,809 @@
+[12/30/2023 - 06:09:33PM] Papyrus log opened (PC)
+[12/30/2023 - 06:09:33PM] Update budget: 1.200000ms (Extra tasklet budget: 1.200000ms, Load screen budget: 500.000000ms)
+[12/30/2023 - 06:09:33PM] Memory page: 128 (min) 512 (max) 153600 (max total)
+[12/30/2023 - 06:09:34PM] Cannot open store for class "DLC1testPhilVortexSCRIPT", missing file?
+[12/30/2023 - 06:09:34PM] Cannot open store for class "dlc1testPhilVortexTrigSCRIPT", missing file?
+[12/30/2023 - 06:09:34PM] Cannot open store for class "DLC1TestPhilAtronach", missing file?
+[12/30/2023 - 06:09:34PM] Cannot open store for class "DLC2BenthicLurkerFXSCRIPT", missing file?
+[12/30/2023 - 06:09:35PM] Cannot open store for class "ZazOnTriggerEnterBindingsTMG", missing file?
+[12/30/2023 - 06:09:35PM] Cannot open store for class "mzinbathequest", missing file?
+[12/30/2023 - 06:09:35PM] Cannot open store for class "slsw_mcmconfig", missing file?
+[12/30/2023 - 06:09:35PM] Cannot open store for class "sco_utility", missing file?
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_whipquest_01 to  (160059DF) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_whipquest_02 to  (160059E1) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_whipquest_00 to  (160059EC) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A20) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A21) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A23) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A26) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A2B) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A30) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A31) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A32) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A35) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A36) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A37) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A38) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A39) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A3A) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A3B) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A42) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A44) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A45) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A46) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A48) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4A) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4B) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4C) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4D) because their base types do not match
+[12/30/2023 - 06:09:35PM] ERROR: Unable to bind script nade_allegiancequest_qf_scr to  (16005A91) because their base types do not match
+[12/30/2023 - 06:09:35PM] Cannot open store for class "osexintegrationmain", missing file?
+[12/30/2023 - 06:09:58PM] warning: Property AshSpawnAttachChancePercent on script DLC2AshSpawnAttackChanceScript attached to alias Player on quest DLC2Init (04016E02) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script DLC2WaterScript to alias Water on quest DLC2TTF2 (0401AAC8) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Property qst3 on script nade_playeralias_scr attached to alias EssentialPlayer on quest nade_DefeatQuest (160B6940) cannot be bound because <nullptr form> (160E2541) is not the right type
+[12/30/2023 - 06:09:58PM] warning: Property KeyWordUndead on script nade_playeralias_scr attached to alias EssentialPlayer on quest nade_DefeatQuest (160B6940) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property KeywordVampire on script nade_playeralias_scr attached to alias EssentialPlayer on quest nade_DefeatQuest (160B6940) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] ERROR: Property CellTrigger on script DDP_PaddedDoorScript attached to  (1551D0AE) cannot be bound because <nullptr form> (156010FC) is not the right type
+[12/30/2023 - 06:09:58PM] ERROR: Property Reward on script zadcFurnitureScript attached to  (15206F48) cannot be initialized because the value is the incorrect type
+[12/30/2023 - 06:09:58PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (150490D2) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (150490D1) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (1505846F) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (15058470) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property stateBeltedOpen on script zadCorsetScript attached to Item 24 in container  (1500C13B) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property stateBeltedFull on script zadCorsetScript attached to Item 24 in container  (1500C13B) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property stateDefault on script zadCorsetScript attached to Item 24 in container  (1500C13B) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] ERROR: Element of property Reward on script zadcFurnitureScript attached to  (14114BFA) cannot be bound because  (10006962) is not the right type
+[12/30/2023 - 06:09:58PM] ERROR: Property AppliedSpellEffects on script zadcFurnitureScript attached to  (14114BFA) cannot be initialized because the value is the incorrect type
+[12/30/2023 - 06:09:58PM] ERROR: Property Reward on script zadcFurnitureScript attached to  (1410E349) cannot be initialized because the value is the incorrect type
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027115) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027114) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property TG05KarliahInvisibilitySpell on script tg06questscript attached to TG06 (00021552) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027117) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027116) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027112) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027113) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027111) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property DLC2RRTeldrynSero on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property FollowerDismissMessageWedding on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property FollowerDismissMessageCompanionsFemale on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property FollowerDismissMessageCompanions on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property DismissedFollower on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property FollowerDismissMessageCompanionsMale on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property FollowerDismissMessage on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property FollowerDismissMessageWait on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027110) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property AllegianceFaction on script nade_followerquest_qf_scr attached to nade_FollowerQuest (16005A43) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property Bladesman60 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property HackAndSlash90 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property Necromancy on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property MageArmor30 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property SavageStrike on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property AugmentedFrost on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property HackAndSlash60 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property WindWalker on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property MagicResistance30 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property MagicResistance50 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property DarkSouls on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property Bladesman90 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property MageArmor50 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property sexqst on script nade_captivequest_qf_scr attached to nade_CaptiveQuest (16172C7D) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property nade_calmquest on script nade_captivequest_qf_scr attached to nade_CaptiveQuest (16172C7D) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property Alias_LevitationTarget on script DLC2_QF_DLC2DialogueTelMithry_02017E85 attached to DLC2DialogueTelMithryn (04017E85) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042242) is not the right type
+[12/30/2023 - 06:09:58PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042249) is not the right type
+[12/30/2023 - 06:09:58PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042245) is not the right type
+[12/30/2023 - 06:09:58PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042244) is not the right type
+[12/30/2023 - 06:09:58PM] warning: Property NakedGargoyle on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property SpawnEncounters on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property DefeatPlayerEssential on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] ERROR: Property defqst on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be bound because nade_DefeatQuest (160B6940) is not the right type
+[12/30/2023 - 06:09:58PM] warning: Property Axe on script DLC2DBAncientDragonbornSCRIPT attached to  (0401DC33) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (0402710F) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] warning: Property DLC1VampireChangeEffect on script dlc1playervampirechangescript attached to DLC1PlayerVampireQuest (020071D0) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:09:58PM] VM is freezing...
+[12/30/2023 - 06:09:58PM] VM is frozen
+[12/30/2023 - 06:09:58PM] Reverting game...
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A23) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A20) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_whipquest_01 to  (160059DF) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A38) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A31) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A45) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A36) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A37) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_whipquest_00 to  (160059EC) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_whipquest_02 to  (160059E1) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A35) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_allegiancequest_qf_scr to  (16005A91) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4D) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4C) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4B) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A4A) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A48) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A46) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A44) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A42) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A3B) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A3A) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A39) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A32) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A30) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A2B) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A26) because their base types do not match
+[12/30/2023 - 06:09:58PM] ERROR: Unable to bind script nade_followeridlequest_01_qf_scr to  (16005A21) because their base types do not match
+[12/30/2023 - 06:10:01PM] Loading game...
+[12/30/2023 - 06:10:01PM] ERROR: Unable to bind script DLC2WaterScript to alias Water on quest DLC2TTF2 (0401AAC8) because their base types do not match
+[12/30/2023 - 06:10:01PM] warning: Property NakedGargoyle on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property SpawnEncounters on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property DefeatPlayerEssential on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] ERROR: Property defqst on script nade_configquest_scr attached to nade_ConfigQuest (160012C5) cannot be bound because nade_DefeatQuest (160B6940) is not the right type
+[12/30/2023 - 06:10:01PM] warning: Property AshSpawnAttachChancePercent on script DLC2AshSpawnAttackChanceScript attached to alias Player on quest DLC2Init (04016E02) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property AllegianceFaction on script nade_followerquest_qf_scr attached to nade_FollowerQuest (16005A43) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042242) is not the right type
+[12/30/2023 - 06:10:01PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042249) is not the right type
+[12/30/2023 - 06:10:01PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042245) is not the right type
+[12/30/2023 - 06:10:01PM] ERROR: Element of property RiftenCells on script dcur_supplyquestscript attached to dcur_supplyQuest (140E756E) cannot be bound because <nullptr form> (00042244) is not the right type
+[12/30/2023 - 06:10:01PM] warning: Property sexqst on script nade_captivequest_qf_scr attached to nade_CaptiveQuest (16172C7D) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property nade_calmquest on script nade_captivequest_qf_scr attached to nade_CaptiveQuest (16172C7D) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] ERROR: Property qst3 on script nade_playeralias_scr attached to alias EssentialPlayer on quest nade_DefeatQuest (160B6940) cannot be bound because <nullptr form> (160E2541) is not the right type
+[12/30/2023 - 06:10:01PM] warning: Property KeyWordUndead on script nade_playeralias_scr attached to alias EssentialPlayer on quest nade_DefeatQuest (160B6940) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property KeywordVampire on script nade_playeralias_scr attached to alias EssentialPlayer on quest nade_DefeatQuest (160B6940) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (1505846F) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027115) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027114) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property TG05KarliahInvisibilitySpell on script tg06questscript attached to TG06 (00021552) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027116) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027113) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property DLC1VampireChangeEffect on script dlc1playervampirechangescript attached to DLC1PlayerVampireQuest (020071D0) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (0402710F) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027110) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027111) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (15058470) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] ERROR: Property Reward on script zadcFurnitureScript attached to  (1410E349) cannot be initialized because the value is the incorrect type
+[12/30/2023 - 06:10:01PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (150490D1) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property Alias_LevitationTarget on script DLC2_QF_DLC2DialogueTelMithry_02017E85 attached to DLC2DialogueTelMithryn (04017E85) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property DLC2RRTeldrynSero on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property FollowerDismissMessageWedding on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property FollowerDismissMessageCompanionsFemale on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property FollowerDismissMessageCompanions on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property DismissedFollower on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property FollowerDismissMessageCompanionsMale on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property FollowerDismissMessage on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property FollowerDismissMessageWait on script DLC2HirelingQuestScript attached to DLC2HirelingQuest (04038566) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] ERROR: Property CellTrigger on script DDP_PaddedDoorScript attached to  (1551D0AE) cannot be bound because <nullptr form> (156010FC) is not the right type
+[12/30/2023 - 06:10:01PM] warning: Property Bladesman60 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property HackAndSlash90 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property Necromancy on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property MageArmor30 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property SavageStrike on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property AugmentedFrost on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property HackAndSlash60 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property WindWalker on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property MagicResistance30 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property MagicResistance50 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property DarkSouls on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property Bladesman90 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property MageArmor50 on script DLC1SeranaLevelingScript attached to  (02003BA8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027117) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property PlatePosition on script dlc2toldarstombpuzzleplatescript attached to  (04027112) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property QuestVarToCheck on script DDP_ForgeCubeReceptacle_Script attached to  (150490D2) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property stateBeltedOpen on script zadCorsetScript attached to Item 24 in container  (1500C13B) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property stateBeltedFull on script zadCorsetScript attached to Item 24 in container  (1500C13B) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] warning: Property stateDefault on script zadCorsetScript attached to Item 24 in container  (1500C13B) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] ERROR: Property Reward on script zadcFurnitureScript attached to  (15206F48) cannot be initialized because the value is the incorrect type
+[12/30/2023 - 06:10:01PM] warning: Property Axe on script DLC2DBAncientDragonbornSCRIPT attached to  (0401DC33) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:01PM] ERROR: Element of property Reward on script zadcFurnitureScript attached to  (14114BFA) cannot be bound because  (10006962) is not the right type
+[12/30/2023 - 06:10:01PM] ERROR: Property AppliedSpellEffects on script zadcFurnitureScript attached to  (14114BFA) cannot be initialized because the value is the incorrect type
+[12/30/2023 - 06:10:01PM] warning: Variable ::Util_var on script nade_crimequest_qf_scr has an invalid type sco_utility loaded from save. This variable will be skipped.
+[12/30/2023 - 06:10:02PM] VM is thawing...
+[12/30/2023 - 06:10:02PM] NAKED DEFEAT playeraliasquest: OnPlayerLoadGame()
+[12/30/2023 - 06:10:02PM] [Zad]: Devious Devices Contraptions is now creating sex animations.
+[12/30/2023 - 06:10:02PM] [Zad]: Maintenance routine called
+[12/30/2023 - 06:10:02PM] SEXLAB - LOADED: Version 20000 / 20000
+[12/30/2023 - 06:10:02PM] FNIS AA started (load)
+[12/30/2023 - 06:10:02PM] [Zad]: [Struggle] Registered. Event #1
+[12/30/2023 - 06:10:02PM] [Zad]: [Belted Empty] Registered. Event #4
+[12/30/2023 - 06:10:02PM] [Zad]: [Belted Empty] Loaded: 10%
+[12/30/2023 - 06:10:02PM] PR: (Info) Setting up main
+[12/30/2023 - 06:10:02PM] [Zad]: DevicesUnderneath::Maintenance()
+[12/30/2023 - 06:10:02PM] SLAL: SLAL: OnLoad
+[12/30/2023 - 06:10:02PM] [Zad]: DDX Events registered
+[12/30/2023 - 06:10:02PM] SOS Maintenance: loaded version is 300004
+[12/30/2023 - 06:10:02PM] SOS Maintenance: 300004 is update
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAprefixList mod: FNIS Sexy Move nMods: 4
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAmodID mod: FNIS Sexy Move prefix: fsm modID:1
+[12/30/2023 - 06:10:02PM] FNIS SexyMove started (load).
+[12/30/2023 - 06:10:02PM] NAKED DEFEAT configquest: OnPlayerLoadGameExternal()
+[12/30/2023 - 06:10:02PM] ---OSLAroused--- OStim Integration Status: False
+[12/30/2023 - 06:10:02PM] ERROR: oslaroused_adaptersexlab.LoadAdapter() being called on an invalid object, aborting function call
+stack:
+	[OSLArousedQuest (FE015806)].OSLAroused_Main.OnGameLoaded() - "cblzopmgowbllupuidm" Line 121
+	[alias PlayerRef on quest OSLArousedQuest (FE015806)].OSLAroused_Player.OnPlayerLoadGame() - "vtxefomrefosvryvjxmiu" Line 6
+[12/30/2023 - 06:10:02PM] warning: Assigning None to a non-object variable named "::temp6"
+stack:
+	[OSLArousedQuest (FE015806)].OSLAroused_Main.OnGameLoaded() - "cblzopmgowbllupuidm" Line 121
+	[alias PlayerRef on quest OSLArousedQuest (FE015806)].OSLAroused_Player.OnPlayerLoadGame() - "vtxefomrefosvryvjxmiu" Line 6
+[12/30/2023 - 06:10:02PM] ---OSLAroused--- SexLab IntegrationStatus: False
+[12/30/2023 - 06:10:02PM] NAKED DEFEAT configquest: OnLoadGameCountdown()
+[12/30/2023 - 06:10:02PM] error: Native static function GetNodeTransformScaleMode does not match existing signature on linked type NiOverride. Function will not be bound.
+[12/30/2023 - 06:10:02PM] [Zad]: [Struggle] Loaded: 25%
+[12/30/2023 - 06:10:02PM] zbfExternal: Compatibility checking
+[12/30/2023 - 06:10:02PM] zbfExternal: -------------------------------------------------------
+[12/30/2023 - 06:10:02PM] zbfExternal:                    SexLab version: 20000
+[12/30/2023 - 06:10:02PM] zbfExternal:                 SlaveTats version: 
+[12/30/2023 - 06:10:02PM] zbfExternal:                  RaceMenu version: 7
+[12/30/2023 - 06:10:02PM] zbfExternal: Non SexLab Animation Pack version: 0
+[12/30/2023 - 06:10:02PM] zbfExternal: -------------------------------------------------------
+[12/30/2023 - 06:10:02PM] zbfExternal:                    SexLab support: TRUE
+[12/30/2023 - 06:10:02PM] zbfExternal:                   Overlay support: False
+[12/30/2023 - 06:10:02PM] zbfExternal:      Non SexLab Animation support: False
+[12/30/2023 - 06:10:02PM] zbfExternal: -------------------------------------------------------
+[12/30/2023 - 06:10:02PM] [Zad]: [Drip] Registered. Event #17
+[12/30/2023 - 06:10:02PM] [Zad]: [Posture Collar] Registered. Event #15
+[12/30/2023 - 06:10:02PM] [Zad]: [Posture Collar] Loaded: 10%
+[12/30/2023 - 06:10:02PM] [Zad]: Starting update chain.
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_Billyy_PilloryFuck1): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Nipple Piercings] Registered. Event #16
+[12/30/2023 - 06:10:02PM] [Zad]: [Nipple Piercings] Loaded: 55%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_Babo_ZazPillory01): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_NibblesPillory): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_Leito_Pillory_Doggy): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_PsychePillory): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_Billyy_XCrossFuck): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Drip] Loaded: 10%
+[12/30/2023 - 06:10:02PM] [Zad]: [Belt Chafing] Registered. Event #25
+[12/30/2023 - 06:10:02PM] [Zad]: [Belt Chafing] Loaded: 10%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_Billyy_XCrossFuck2): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Bra Chafing] Registered. Event #11
+[12/30/2023 - 06:10:02PM] [Zad]: [Horny] Registered. Event #6
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_Billyy_XCrossReverseAnal): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Horny] Loaded: 5%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_PsycheRestrictRape3): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_GallPDown_HangBJ): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_GallPDown_HangFF): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_GallPDown_HangFacial): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Bra Chafing] Loaded: 10%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_GallPHorse_ForGrind): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Bump Pumps] Registered. Event #19
+[12/30/2023 - 06:10:02PM] [Zad]: [Stamina Drain] Registered. Event #5
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_GallPStrap_BentOver): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Stamina Drain] Loaded: 50%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_TiltWMiss): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_TiltWSide): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_TiltWFist): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_TiltWFF): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Chaos Plugs] Registered. Event #18
+[12/30/2023 - 06:10:02PM] [Zad]: [Chaos Plugs] Loaded: 25%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_TiltWFF2): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Bump Pumps] Loaded: 17%
+[12/30/2023 - 06:10:02PM] [Zad]: [Restrictive Collar] Registered. Event #14
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_Billyy_StockadeFuckMachine): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Restrictive Collar] Loaded: 15%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_B_WHorse_ForGrind): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_PsycheWoodenHorse): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_NibblesBondagePost): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_NibblesBondagePostTOY): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Blindfold Mystery] Registered. Event #20
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_PsycheRestrictRape8): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Blindfold Mystery] Loaded: 1%
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_PsycheFingerFucking): get
+[12/30/2023 - 06:10:02PM] [SEXLAB] - GetSetAnimation(DDC_PsycheRestrictRape): get
+[12/30/2023 - 06:10:02PM] [Zad]: [Wet Padding] Registered. Event #8
+[12/30/2023 - 06:10:02PM] [Zad]: [Wet Padding] Loaded: 10%
+[12/30/2023 - 06:10:02PM] [Zad]: [Restraints+Armor] Registered. Event #13
+[12/30/2023 - 06:10:02PM] [Zad]: [Harness] Registered. Event #26
+[12/30/2023 - 06:10:02PM] [Zad]: [Harness] Loaded: 10%
+[12/30/2023 - 06:10:02PM] [Zad]: [Restraints+Armor] Loaded: 7%
+[12/30/2023 - 06:10:02PM] InitWidgetLoader()
+[12/30/2023 - 06:10:02PM] [Zad]: [Vibration] Registered. Event #12
+[12/30/2023 - 06:10:02PM] [Zad]: [Vibration] Loaded: 25%
+[12/30/2023 - 06:10:02PM] [Zad]: [Catsuit Wearing] Registered. Event #23
+[12/30/2023 - 06:10:02PM] [Zad]: [Catsuit Wearing] Loaded: 15%
+[12/30/2023 - 06:10:02PM] [Zad]: [Periodic Shocks] Registered. Event #7
+[12/30/2023 - 06:10:02PM] [Zad]: [Health Drain] Registered. Event #21
+[12/30/2023 - 06:10:02PM] [Zad]: [Periodic Shocks] Loaded: 25%
+[12/30/2023 - 06:10:02PM] [Zad]: [Health Drain] Loaded: 50%
+[12/30/2023 - 06:10:02PM] [Zad]: [Mana Drain] Registered. Event #24
+[12/30/2023 - 06:10:02PM] [Zad]: [Mana Drain] Loaded: 50%
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAprefixList mod: FNIS Sexy Move(360) nMods: 4
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAmodID mod: FNIS Sexy Move(360) prefix: fs3 modID:2
+[12/30/2023 - 06:10:02PM] [Zad]: [Mounted] Registered. Event #9
+[12/30/2023 - 06:10:02PM] [Zad]: [Mounted] Loaded: 100%
+[12/30/2023 - 06:10:02PM] [Zad]: [Tight Corset] Registered. Event #22
+[12/30/2023 - 06:10:02PM] [Zad]: [Tight Corset] Loaded: 15%
+[12/30/2023 - 06:10:02PM] [Zad]: [Tight Gloves] Registered. Event #2
+[12/30/2023 - 06:10:02PM] [Zad]: [Tight Gloves] Loaded: 15%
+[12/30/2023 - 06:10:02PM] [Zad]: [Plug Moan] Registered. Event #3
+[12/30/2023 - 06:10:02PM] [Zad]: [Plug Moan] Loaded: 10%
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAprefixList mod: XPMSE nMods: 4
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:02PM] [Zad]: [Trip and Fall] Registered. Event #0
+[12/30/2023 - 06:10:02PM] [Zad]: [Trip and Fall] Loaded: 20%
+[12/30/2023 - 06:10:02PM] [Zad]: [Blindfold Trip] Registered. Event #10
+[12/30/2023 - 06:10:02PM] [Zad]: [Blindfold Trip] Loaded: 10%
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:02PM] [Zad]: Devious Devices is now creating animations.
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:02PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(start Version 24)
+[12/30/2023 - 06:10:02PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(true)
+[12/30/2023 - 06:10:02PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDBeltedSolo): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDArmbinderSolo): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDYokeSolo): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDElbowbinderSolo): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDBBYokeSolo): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDFrontCuffsSolo): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDElbowTieSolo): get
+[12/30/2023 - 06:10:03PM] [Zad]: Devious Devices is now creating bound animations.
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_armbBJ1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_ADogFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_AHogFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_AKneelFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LayAFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDZapArmbDoggy01Both): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_armbMiss1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_armbCowg1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_ACG): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_AHold): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_ASide): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_ArmbA): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDZapArmbLesbian01Both): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LACunnKnl): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LAFaceSit1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LAFingSit): get
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LAFingStand): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDZapArmbKissing01): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_elbBJ1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_elbMiss1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_elbCowg1): get
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_ElbndAn): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_ElbL): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_yokeBJ1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_YokeFaceFuck): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_Yoke69): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_Y692): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_YKneelFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_yokeMiss1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_YokeCowgirl): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_YokeDoggy): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_YokeMissionary): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_YokeStanding): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_YCG): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_YHold): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_YMiss): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_YStand): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Babo_SneakYokeStandingFuck): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_YokeRevCowgirlAnal): get
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_Billyy_YokeLayingAnal): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_YDogA): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_YStandA): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDZapYokeLesbian01Both): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LYCunnKnl): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LYFaceSit1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LYFingSit): get
+[12/30/2023 - 06:10:03PM] NAKED DEFEAT configquest: #Version: 4.92 - SE
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LYFingStand): get
+[12/30/2023 - 06:10:03PM] NAKED DEFEAT configquest: CheckFastTravel()
+[12/30/2023 - 06:10:03PM] NAKED DEFEAT configquest: FastTravel()
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDZapYokeKissing01): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_bbYokeBJ1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_bbYokeMiss1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_BBYoA): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_cuffsFrontBJ1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_C69): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CDogFF): get
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CHogFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_KneelCFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LayCFF): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_SH_cuffsFrontMiss1): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CCG): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CDog): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CHold): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CMiss): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CSide): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CStand): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CDogA): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CLayBA): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LCCunnKnl): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LCFaceSit1): get
+[12/30/2023 - 06:10:03PM] NAKED DEFEAT configquest: (#msg) FAST TRAVEL ENABLED
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LCFingSit): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_LCFingStand): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_CHJ): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_PS_DT): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_PS_Doggy): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_PS_Miss): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DD_B_PS_DoggyA): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDZapMixLesbian01ArmbYoke): get
+[12/30/2023 - 06:10:03PM] [SEXLAB] - GetSetAnimation(DDZapMixLesbian01YokeArmb): get
+[12/30/2023 - 06:10:03PM] [Zad]: EnableEventProcessing()
+[12/30/2023 - 06:10:03PM] [Zad]: Rehooking Mod Events
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] FNIS aa GetAAsetList mod: XPMSE nSets: 30
+[12/30/2023 - 06:10:03PM] [Zad]: ZadNpc::DoRegister(1.469870)
+[12/30/2023 - 06:10:03PM] [Zad]: RepopulateNpcs()
+[12/30/2023 - 06:10:03PM] warning: Property AllegianceFaction on script nade_followerquest_qf_scr attached to nade_FollowerQuest (16005A43) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:03PM] NAKED DEFEAT followerquest: stage 600 (FollowerScan())
+[12/30/2023 - 06:10:03PM] NAKED DEFEAT followerquest: FollowerScan (ON) #ACTOR# LIST:
+[12/30/2023 - 06:10:03PM] NAKED DEFEAT Follower #01: Chloe
+[12/30/2023 - 06:10:04PM] NAKED DEFEAT followerquest: #FollowerScan (ON) ACTOR#0: Chloe
+[12/30/2023 - 06:10:04PM] NAKED DEFEAT followerquest: (#msg) Your current Naked Defeat Followers: Chloe
+[12/30/2023 - 06:10:05PM] XPMSE MainQuest Initialization successful.
+[12/30/2023 - 06:10:12PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(start Version 24)
+[12/30/2023 - 06:10:12PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(true)
+[12/30/2023 - 06:10:16PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(start Version 24)
+[12/30/2023 - 06:10:16PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(true)
+[12/30/2023 - 06:10:16PM] [Zad]: OnEquipped(Aleena: Black Ebonite Boxbinder Outfit)
+[12/30/2023 - 06:10:16PM] [Zad]: Checking for active unequip operation for [Keyword <zad_DeviousHeavyBondage (0905226C)>]
+[12/30/2023 - 06:10:16PM] [Zad]: No active unequip operation running for [Keyword <zad_DeviousHeavyBondage (0905226C)>]. Proceeding
+[12/30/2023 - 06:10:18PM] [Zad]: Sending device event DeviceEquippedBoxbinder(Aleena:1)
+[12/30/2023 - 06:10:18PM] [Zad]: OnEffectStart(armbinder-noLockpicks)
+[12/30/2023 - 06:10:18PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(start Version 24)
+[12/30/2023 - 06:10:18PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(true)
+[12/30/2023 - 06:10:18PM] [Zad]: ==========Begin Compatibility Checks==========
+[12/30/2023 - 06:10:18PM] [Zad]: Please note that Errors related to missing files should be ignored.
+[12/30/2023 - 06:10:18PM] [Zad]: [ Dependency Checks ]
+[12/30/2023 - 06:10:18PM] [Zad]: DDi version [14.000000]: OK
+[12/30/2023 - 06:10:18PM] [Zad]: assets version [3.000000]: OK
+[12/30/2023 - 06:10:18PM] [Zad]: Aroused version [20140124.000000]: OK
+[12/30/2023 - 06:10:18PM] [Zad]: SexLab version [20000.000000]: OK
+[12/30/2023 - 06:10:18PM] [Zad]: [ Third Party Mod Compatibility Checks ]
+[12/30/2023 - 06:10:18PM] [Zad]: [ Sanity Checks ]
+[12/30/2023 - 06:10:18PM] [Zad]: Verifying that installation is untainted by an unsupported upgrade: OK
+[12/30/2023 - 06:10:18PM] [Zad]: ==========End Compatibility Checks==========
+[12/30/2023 - 06:10:18PM] [Zad]: Events arrays already initialized - skipping.
+[12/30/2023 - 06:10:18PM] [Zad]: zadEventSlots::Maintenance()
+[12/30/2023 - 06:10:18PM] [Zad]: Config Interval:1.500000. Total number of events: 0. Next staggered update in 1.500000
+[12/30/2023 - 06:10:18PM] [Zad]: EvaluateAA([Actor < (00000014)>])
+[12/30/2023 - 06:10:18PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:10:19PM] ERROR: Unable to call Delete - no native object bound to the script object, or object is of incorrect type
+stack:
+	[Item 1 in container  (00000014)].zadHiderScript.Delete() - "<native>" Line ?
+	[Item 1 in container  (00000014)].zadHiderScript.OnContainerChanged() - "zadHiderScript.psc" Line 5
+[12/30/2023 - 06:10:19PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(start Version 24)
+[12/30/2023 - 06:10:19PM] NAKED DEFEAT playeraliasquest: OnObjectEquipped(true)
+[12/30/2023 - 06:10:19PM] [Zad]: Monitoring Camera state.
+[12/30/2023 - 06:10:19PM] [Zad]: OnEffectStart(): Bound Effects
+[12/30/2023 - 06:10:19PM] [Zad]: EvaluateAA([Actor < (00000014)>])
+[12/30/2023 - 06:10:19PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:10:20PM] [Zad]: ApplyBoundAnim()
+[12/30/2023 - 06:10:20PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:10:22PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 1 on  (00013482) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:10:28PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:10:53PM] [DCUR] Scanning for followers
+[12/30/2023 - 06:10:55PM] [DCUR] Periodical update starts
+[12/30/2023 - 06:10:58PM] [DCUR] Sex attacks are disabled due to conflicting quests!
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] NAKED DEFEAT playeraliasquest: OnCellLoad()
+[12/30/2023 - 06:11:00PM] [Zad]: RepopulateNpcs()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnEffectStart(): Belly
+[12/30/2023 - 06:11:00PM] [Zad]: OnEffectStart(): Bra
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14112AEA) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14118DE6) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14119E38) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14113B69) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141135C9) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14118DBE) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14119E36) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14118DE4) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14113061) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141140F9) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14119E34) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (1411934D) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14113B6C) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14112AE8) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141140FB) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 4 on  (14112569) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 3 on  (14114C04) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 3 on  (14118DDF) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 3 on  (1411934B) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14114C14) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141140F3) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141140EF) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (1411934F) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14112578) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14112AE9) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141135CB) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141135DE) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141182AF) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14114671) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14119351) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14119E46) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14118DD1) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 3 on  (14114C2F) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (141135E2) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14112559) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] warning: Property SexLabGenderFaction on script SOS_ActorMagicEffect_Script attached to Active effect 2 on  (14113B5D) cannot be initialized because the script no longer contains that property
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Amanda: Golden Chastity Belt (Padded))
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Nicole: Prison Shackles)
+[12/30/2023 - 06:11:00PM] [Zad]: LockDevice called for Abigail: Silver Chastity Belt (Padded))
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Tamara: Iron Chain Harness (Body))
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Bettany: Black Ebonite Gag (Large Ball) (Harness))
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:00PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:00PM] [Zad]: Sending device event DeviceEquippedGag(Bettany:0)
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:00PM] [Zad]: Avoiding FTM duplication bug (Harness).
+[12/30/2023 - 06:11:00PM] [Zad]: Sending device event DeviceEquippedChain Harness(Tamara:0)
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:00PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14113B6A)>] group: _mt base: 2 number: 1
+[12/30/2023 - 06:11:00PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14113B68)>] group: _mt base: 2 number: 3
+[12/30/2023 - 06:11:00PM] [Zad]: OnEffectStart(): Bra
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Amanda: Iron Ring Slave Boots)
+[12/30/2023 - 06:11:00PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14114C19)>] group: _mt base: 2 number: 6
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Nicole: Black Ebonite Gag (Large Ball) (Harness))
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Tamara: Iron Chain Harness (Nipple Chain))
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Amanda: Golden Cuffs (Padded) (Legs))
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Shannon: Red Extreme Rope Harness)
+[12/30/2023 - 06:11:00PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14114670)>] group: _mt base: 2 number: 6
+[12/30/2023 - 06:11:00PM] SOS Actor Schlongify: new schlong for Ingar got schlong index 0 size 6
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Bettany: Prisoner Outfit)
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Amanda: Golden Chastity Bra (Padded))
+[12/30/2023 - 06:11:00PM] [Zad]: OnEquipped(Bettany: Prison Shackles)
+[12/30/2023 - 06:11:00PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (141140F1)>] group: _mt base: 2 number: 6
+[12/30/2023 - 06:11:00PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:00PM] ERROR: Cannot call GetItemCount() on a None object, aborting function call
+stack:
+	[alias FemaleAlias4 on quest FNISSMQuest2 (3300C492)].FNISSM_NPCAlias.OnInit() - "FNISSM_NPCAlias.psc" Line 66
+[12/30/2023 - 06:11:00PM] warning: Assigning None to a non-object variable named "::temp3"
+stack:
+	[alias FemaleAlias4 on quest FNISSMQuest2 (3300C492)].FNISSM_NPCAlias.OnInit() - "FNISSM_NPCAlias.psc" Line 66
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: Sending device event DeviceEquippedGag(Nicole:0)
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Tamara: Iron Chain Harness (Bra))
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: Sending device event DeviceEquippedPrisoner Chains(Bettany:0)
+[12/30/2023 - 06:11:01PM] [Zad]: OnEffectStart(gag)
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Tamara: Iron Chain Harness (Legs))
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Tamara: Iron Chain Harness (Arms))
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:01PM] [Zad]: OnEffectStart(): Belly
+[12/30/2023 - 06:11:01PM] SOS Actor Schlongify: new schlong for Alex got schlong index 1 size 5
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Nicole: Prisoner Outfit)
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Amanda: Golden Cuffs (Padded) (Arms))
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Abigail: Silver Chastity Belt (Padded))
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: Sending device event DeviceEquippedChain Harness Arm Shackles(Tamara:0)
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Amanda: Golden Collar (Padded))
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: Sending device event DeviceEquippedHobble Dress(Nicole:0)
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: OnEffectStart(): Hobble Skirt
+[12/30/2023 - 06:11:01PM] [Zad]: RestraintScript OnEquippedPost Arms
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] SOS MarkArmorAsConcealing: registering armor as concealing 
+[12/30/2023 - 06:11:01PM] [Zad]: Sending device event DeviceEquippedCollar(Amanda:0)
+[12/30/2023 - 06:11:01PM] [Zad]: OnEffectStart(gag)
+[12/30/2023 - 06:11:01PM] [Zad]: Apply_HBC(akActor) is depreciated, please use EvaluateAA(akActor) instead!
+[12/30/2023 - 06:11:01PM] [Zad]: EvaluateAA([Actor < (14112AEA)>])
+[12/30/2023 - 06:11:01PM] SOS Actor Schlongify: new schlong for Siegfried The Stallion got schlong index 0 size 8
+[12/30/2023 - 06:11:01PM] [Zad]: OnEquipped(Tamara: Iron Chain Harness (Ankles))
+[12/30/2023 - 06:11:01PM] [Zad]: RestraintScript OnEquippedPost BodyHarness
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:01PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: Avoiding FTM duplication bug (Harness).
+[12/30/2023 - 06:11:02PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: Avoiding FTM duplication bug (Bra).
+[12/30/2023 - 06:11:02PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: Avoiding FTM duplication bug (Nipple Piercings).
+[12/30/2023 - 06:11:02PM] [Zad]: Sending device event DeviceEquippedChain Harness Leg Shackles(Tamara:0)
+[12/30/2023 - 06:11:02PM] [Zad]: LockDevice called for Meghan: Silver Chastity Belt (Padded))
+[12/30/2023 - 06:11:02PM] [Zad]: RestraintScript OnEquippedPost Legs
+[12/30/2023 - 06:11:02PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:02PM] [Zad]: OnEffectStart(): Belly
+[12/30/2023 - 06:11:02PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: OnEquipped(Meghan: Silver Chastity Belt (Padded))
+[12/30/2023 - 06:11:02PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:11:02PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: Sending device event DeviceEquippedPrisoner Chains(Nicole:0)
+[12/30/2023 - 06:11:02PM] [Zad]: RepopulateNpcs() is already processing.
+[12/30/2023 - 06:11:02PM] SOS Actor Schlongify: new schlong for Julian got schlong index 0 size 10
+[12/30/2023 - 06:11:02PM] [Zad]: Sending device event DeviceEquippedChastity Belt(Amanda:0)
+[12/30/2023 - 06:11:02PM] [Zad]: Sending device event DeviceEquippedLeg Cuffs(Amanda:0)
+[12/30/2023 - 06:11:02PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: Sending device event DeviceEquippedChain Harness Ankle Shackles(Tamara:0)
+[12/30/2023 - 06:11:02PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:02PM] [Zad]: Sending device event DeviceEquippedHobble Dress(Bettany:0)
+[12/30/2023 - 06:11:02PM] [Zad]: Sending device event DeviceEquippedChastity Bra(Amanda:0)
+[12/30/2023 - 06:11:03PM] [Zad]: RestraintScript OnEquippedPost Legs
+[12/30/2023 - 06:11:03PM] [Zad]: original exposure rate was 1.000000. Setting to 1.500000.
+[12/30/2023 - 06:11:03PM] ---OSLAroused--- [ModInterface] SetArousalMultiplier: Amanda modified by val: 1.500000 Reason: slaframework SetActorExposureRate
+[12/30/2023 - 06:11:03PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:03PM] [Zad]: Avoiding FTM duplication bug (Bra).
+[12/30/2023 - 06:11:03PM] [Zad]: Sending device event DeviceEquippedChain Harness Nipple Chains(Tamara:0)
+[12/30/2023 - 06:11:03PM] [Zad]: RepopulateNpcs() is already processing.
+[12/30/2023 - 06:11:03PM] [Zad]: Sending device event DeviceEquippedArm Cuffs(Amanda:0)
+[12/30/2023 - 06:11:03PM] [Zad]: RestraintScript OnEquippedPost PiercingNipples
+[12/30/2023 - 06:11:03PM] SOS Actor Schlongify: new schlong for Tahir The Tiger got schlong index 1 size 5
+[12/30/2023 - 06:11:03PM] [Zad]: Sending device event DeviceEquippedChastity Belt(Meghan:0)
+[12/30/2023 - 06:11:03PM] [Zad]: Sending device event DeviceEquippedChastity Belt(Abigail:0)
+[12/30/2023 - 06:11:03PM] [Zad]: OnEffectStart(): Belly
+[12/30/2023 - 06:11:03PM] [Zad]: OnEffectStart(): Belly
+[12/30/2023 - 06:11:03PM] [Zad]: RepopulateNpcs() is already processing.
+[12/30/2023 - 06:11:03PM] [Zad]: original exposure rate was 1.000000. Setting to 1.500000.
+[12/30/2023 - 06:11:03PM] ---OSLAroused--- [ModInterface] SetArousalMultiplier: Abigail modified by val: 1.500000 Reason: slaframework SetActorExposureRate
+[12/30/2023 - 06:11:03PM] [Zad]: EvaluateAA([Actor < (14112AEA)>])
+[12/30/2023 - 06:11:03PM] [Zad]: Sending device event DeviceEquippedRope Harness(Shannon:0)
+[12/30/2023 - 06:11:03PM] [Zad]: OnEffectStart(): Hobble Skirt
+[12/30/2023 - 06:11:03PM] [Zad]: Sending device event DeviceEquippedChain Harness Bustier(Tamara:0)
+[12/30/2023 - 06:11:03PM] [Zad]: EvaluateAA([Actor < (14112AEA)>])
+[12/30/2023 - 06:11:03PM] [Zad]: Apply_HBC(akActor) is depreciated, please use EvaluateAA(akActor) instead!
+[12/30/2023 - 06:11:03PM] [Zad]: EvaluateAA([Actor < (14112AE9)>])
+[12/30/2023 - 06:11:03PM] SOS Actor Schlongify: new schlong for Shaggy Shagster got schlong index 1 size 5
+[12/30/2023 - 06:11:03PM] [Zad]: EvaluateAA([Actor < (14112AE9)>])
+[12/30/2023 - 06:11:04PM] [Zad]: Difficulty timer modifier applied: 12.018138 [setting: 8]
+[12/30/2023 - 06:11:04PM] [Zad]: EvaluateAA([Actor < (14112AE9)>])
+[12/30/2023 - 06:11:04PM] [Zad]: LockDevice called for Elizabeth: Silver Chastity Belt (Padded))
+[12/30/2023 - 06:11:04PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:04PM] [Zad]: OnEffectStart(): Belly
+[12/30/2023 - 06:11:04PM] [Zad]: Sending device event DeviceEquippedSlave Boots(Amanda:0)
+[12/30/2023 - 06:11:04PM] [Zad]: OnEquipped(Elizabeth: Silver Chastity Belt (Padded))
+[12/30/2023 - 06:11:04PM] [Zad]: RestraintScript OnEquippedPost Arms
+[12/30/2023 - 06:11:04PM] [Zad]: Difficulty timer modifier applied: 6.793200 [setting: 8]
+[12/30/2023 - 06:11:04PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:11:04PM] [Zad]: EvaluateAA([Actor < (14112AEA)>])
+[12/30/2023 - 06:11:04PM] [Zad]: RepopulateNpcs()
+[12/30/2023 - 06:11:04PM] [Zad]: Aborting repopulation of NPC slots: Hit throttle.
+[12/30/2023 - 06:11:04PM] [Zad]: RestraintScript OnEquippedPost BodyHarness
+[12/30/2023 - 06:11:04PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (14118DD6)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 969
+	[ (14118DD6)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:11:04PM] [Zad]: Difficulty timer modifier applied: 5.000000 [setting: 8]
+[12/30/2023 - 06:11:05PM] [Zad]: LockDevice called for Abigail: Black Ebonite Elbowbinder)
+[12/30/2023 - 06:11:05PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:05PM] [Zad]: EvaluateAA([Actor < (14112AEA)>])
+[12/30/2023 - 06:11:05PM] [Zad]: OnEquipped(Abigail: Black Ebonite Elbowbinder)
+[12/30/2023 - 06:11:05PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:05PM] [Zad]: Sending device event DeviceEquippedElbowbinder(Abigail:0)
+[12/30/2023 - 06:11:05PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:05PM] [Zad]: original exposure rate was 1.000000. Setting to 1.500000.
+[12/30/2023 - 06:11:05PM] ---OSLAroused--- [ModInterface] SetArousalMultiplier: Meghan modified by val: 1.500000 Reason: slaframework SetActorExposureRate
+[12/30/2023 - 06:11:05PM] [Zad]: Sending device event DeviceEquippedChastity Belt(Elizabeth:0)
+[12/30/2023 - 06:11:05PM] [Zad]: OnEffectStart(): Heavy Bondage: Abigail
+[12/30/2023 - 06:11:05PM] [Zad]: OnEffectStart(): Belly
+[12/30/2023 - 06:11:05PM] [Zad]: original exposure rate was 1.000000. Setting to 1.500000.
+[12/30/2023 - 06:11:05PM] ---OSLAroused--- [ModInterface] SetArousalMultiplier: Elizabeth modified by val: 1.500000 Reason: slaframework SetActorExposureRate
+[12/30/2023 - 06:11:06PM] [Zad]: EvaluateAA([Actor < (14119E34)>])
+[12/30/2023 - 06:11:06PM] [Zad]: RepopulateNpcs()
+[12/30/2023 - 06:11:06PM] [Zad]: Difficulty timer modifier applied: 7.207669 [setting: 8]
+[12/30/2023 - 06:11:06PM] [Zad]: EvaluateAA([Actor < (14112AE9)>])
+[12/30/2023 - 06:11:06PM] [Zad]: LockDevice called for Meghan: Black Ebonite Elbowbinder)
+[12/30/2023 - 06:11:06PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:06PM] [Zad]: OnEquipped(Meghan: Black Ebonite Elbowbinder)
+[12/30/2023 - 06:11:06PM] [Zad]: LockDevice called for Elizabeth: Black Ebonite Elbowbinder)
+[12/30/2023 - 06:11:06PM] [Zad]: OnEquipped(Elizabeth: Black Ebonite Elbowbinder)
+[12/30/2023 - 06:11:06PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:06PM] [Zad]: Sending device event DeviceEquippedElbowbinder(Meghan:0)
+[12/30/2023 - 06:11:07PM] [Zad]: Difficulty timer modifier applied: 6.010038 [setting: 8]
+[12/30/2023 - 06:11:07PM] [Zad]: OnContainerChanged()
+[12/30/2023 - 06:11:07PM] [Zad]: No menus are open. Equipping silently.
+[12/30/2023 - 06:11:07PM] [Zad]: OnEffectStart(): Heavy Bondage: Meghan
+[12/30/2023 - 06:11:07PM] [Zad]: Sending device event DeviceEquippedElbowbinder(Elizabeth:0)
+[12/30/2023 - 06:11:07PM] [Zad]: RepopulateNpcs() is already processing.
+[12/30/2023 - 06:11:07PM] [Zad]: OnEffectStart(): Heavy Bondage: Elizabeth
+[12/30/2023 - 06:11:07PM] [Zad]: RepopulateNpcs() is already processing.
+[12/30/2023 - 06:11:07PM] [Zad]: EvaluateAA([Actor < (14119E36)>])
+[12/30/2023 - 06:11:07PM] [Zad]: EvaluateAA([Actor < (14119E38)>])
+[12/30/2023 - 06:11:08PM] [Zad]: EvaluateAA([Actor < (14112AE9)>])
+[12/30/2023 - 06:11:08PM] [Zad]: EvaluateAA([Actor < (14112AEA)>])
+[12/30/2023 - 06:11:08PM] [Zad]: EvaluateAA([Actor < (14119E34)>])
+[12/30/2023 - 06:11:08PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:11:09PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (14118DD6)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 973
+	[ (14118DD6)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:11:09PM] [DCUR] Opened a door.
+[12/30/2023 - 06:11:10PM] [DCUR] Checking for Cursed Loot event.
+[12/30/2023 - 06:11:11PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:11:11PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (14118DD6)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 978
+	[ (14118DD6)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:11:11PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14112556)>] group: _mt base: 2 number: 2
+[12/30/2023 - 06:11:11PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14112AE6)>] group: _mt base: 2 number: 5
+[12/30/2023 - 06:11:11PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (141140E0)>] group: _mt base: 2 number: 3
+[12/30/2023 - 06:11:11PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (141135CA)>] group: _mt base: 2 number: 2
+[12/30/2023 - 06:11:11PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14114C08)>] group: _mt base: 2 number: 2
+[12/30/2023 - 06:11:13PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:11:20PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:11:20PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (141182AC)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 969
+	[ (141182AC)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:11:22PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:11:22PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (141135E0)>] group: _mt base: 2 number: 2
+[12/30/2023 - 06:11:22PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (140FFAA1)>] group: _mt base: 2 number: 2
+[12/30/2023 - 06:11:22PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (141182AD)>] group: _mt base: 2 number: 4
+[12/30/2023 - 06:11:22PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (141135DC)>] group: _mt base: 2 number: 2
+[12/30/2023 - 06:11:22PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14114C03)>] group: _mt base: 2 number: 5
+[12/30/2023 - 06:11:23PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14112575)>] group: _mt base: 2 number: 3
+[12/30/2023 - 06:11:23PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14119E45)>] group: _mt base: 2 number: 7
+[12/30/2023 - 06:11:23PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14112567)>] group: _mt base: 2 number: 2
+[12/30/2023 - 06:11:23PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (14118DCF)>] group: _mt base: 2 number: 1
+[12/30/2023 - 06:11:23PM] FNIS aa SetAnimGroup mod: FNIS Sexy Move Actor: [ActorBase < (141140F7)>] group: _mt base: 2 number: 6
+[12/30/2023 - 06:11:24PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:11:24PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (141182AC)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 973
+	[ (141182AC)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:11:25PM] [Zad]: Selecting DD-aware animations.
+[12/30/2023 - 06:11:26PM] SEXLAB - [sslanimationslots <SexLabQuestAnimations (050639DF)>] AnimationFilter: GetByTags
+[12/30/2023 - 06:11:26PM] SEXLAB - [sslanimationslots <SexLabQuestAnimations (050639DF)>] Searching for Animation with Keys = [-2147483648, -2147483648] | Tags = ["MF", "-Aggressive", "-bound", "-Futa", "-Guro", "-Necro", "-Molag", "-Amputee", "-Boobjob", "-Yoke", "-Armbinder"]
+[12/30/2023 - 06:11:26PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:11:27PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (141182AC)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 978
+	[ (141182AC)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:11:27PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:11:27PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (141135DF)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 969
+	[ (141135DF)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:11:29PM] SEXLAB - [sslanimationslots <SexLabQuestAnimations (050639DF)>] _GetAnimations: Found 128 animations | Keys [-2147483648, -2147483648] | Tags = ["MF", "-Aggressive", "-bound", "-Futa", "-Guro", "-Necro", "-Molag", "-Amputee", "-Boobjob", "-Yoke", "-Armbinder"]
+[12/30/2023 - 06:11:29PM] [Zad]: Selecting SexLab animations with number of actors: 2
+[12/30/2023 - 06:11:29PM] [Zad]: Selecting SexLab animations with tag string: MF
+[12/30/2023 - 06:11:29PM] [Zad]: Selecting SexLab animations with suppress string: Aggressive,Bound,Futa,Guro,Necro,Molag,Amputee,Boobjob,Yoke,Armbinder
+[12/30/2023 - 06:11:29PM] SEXLAB - Thread[0]  - Entering Making State
+[12/30/2023 - 06:11:29PM] [SEXLAB] - NOTICE: ValidateActor(Aleena) -- TRUE -- MISS
+[12/30/2023 - 06:11:29PM] Info: SEXLAB - FATAL - Thread[0] AddActor(Aleena) - Failed to add actor -- They were unable to fill an actor alias
+stack:
+	<unknown self>.Debug.TraceStack() - "<native>" Line ?
+	[SexLabThread00 (05061EEF)].sslthreadcontroller.ReportAndFail() - "tizxzfoldurrqrskwl" Line 2136
+	[SexLabThread00 (05061EEF)].sslthreadcontroller.AddActor() - "tizxzfoldurrqrskwl" Line ?
+	[SexLabThread00 (05061EEF)].sslthreadcontroller.AddActors() - "tizxzfoldurrqrskwl" Line ?
+	[SexLabQuestFramework (05000D62)].sexlabframework.StartSex() - "msqwylhzvlpcqxnnfmx" Line 3151
+	[dcur_sexlib (1411EFFD)].dcur_sexfunctionslibrary.sex() - "dcur_sexfunctionslibrary.psc" Line 135
+	[dcur_sexlib (1411EFFD)].dcur_sexfunctionslibrary.SexWrapper() - "dcur_sexfunctionslibrary.psc" Line 318
+	[topic info 141135ED on quest dcur_thewhipandchaininnQuest (1411255E)].dcur_twac_whore_m_regularsex.Fragment_0() - "dcur_twac_whore_m_regularsex.psc" Line 9
+[12/30/2023 - 06:11:29PM] [SEXLAB] - NOTICE - StartSex() - Failed to add some actors to thread
+[12/30/2023 - 06:11:29PM] [DCUR] Periodical update starts
+[12/30/2023 - 06:12:21PM] [Zad]: UpdateControls()
+[12/30/2023 - 06:12:22PM] SEXLAB - [VoiceType <FemaleSultry (00013AE0)>]
+[12/30/2023 - 06:12:22PM] ERROR: Cannot call Moan() on a None object, aborting function call
+stack:
+	[zadQuest (0900F624)].zadlibs.SexlabMoan() - "zadLibs.psc" Line 1710
+	[ (141135DF)].zadcFurnitureScript.StruggleScene() - "zadcFurnitureScript.psc" Line 973
+	[ (141135DF)].zadcFurnitureScript.OnUpdate() - "zadcFurnitureScript.psc" Line 805
+[12/30/2023 - 06:12:22PM] [DCUR] Sex attacks are disabled due to conflicting quests!
